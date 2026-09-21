@@ -18,8 +18,8 @@ modules:
       - cp -a . /app
     sources:
       - type: archive
-        url: https://dl.loomfy.ai/releases/v1.7.3/Loomfy-1.7.3-x64.tar.gz
-        sha256: e7145fbfa612070b3f505744318ea0c7fdbd0a2bab9333bf9184418370718302
+        url: https://dl.loomfy.ai/releases/v1.7.4/Loomfy-1.7.4-x64.tar.gz
+        sha256: 096200bd8e0d0b803d79ba842f625997e1b29990dea0b6bc6a8c38e0c44febe2
         x-checker-data:
           type: html
           url: https://dl.loomfy.ai/apt/dists/stable/main/binary-amd64/Packages
